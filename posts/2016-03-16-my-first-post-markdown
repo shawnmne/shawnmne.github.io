@@ -1,0 +1,21 @@
+#This is my title
+
+Here is some text
+
+Here is some **bold** text
+
+here is a `code snippet`
+
+Here is some _italicized_ text
+
+*list item
+*list item
+
+1. numbered item
+2. numbered item 
+
+```ruby
+  puts "this is alonger code snippet"
+  ```
+
+  [this is a link] (http://google.com)
